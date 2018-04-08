@@ -2,4 +2,4 @@
 Web portal for godavaripushkaralu
 
 check followers at facebook page.
-facebook.com/gotogodavari
+http://facebook.com/gotogodavari
