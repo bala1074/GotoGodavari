@@ -1,0 +1,1118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-10-14 19:54+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.3\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\magpress\\developer\\wp-content"
+"\\themes\\combomag\n"
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/404.php:16
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/404.php:18
+msgid "The page you requested cannot be found!"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/404.php:19
+msgid "Perhaps you are here because:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/404.php:21
+msgid "The page has moved"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/404.php:22
+msgid "The page url has been change"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/404.php:23
+msgid "The page no longer exist"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/404.php:25
+#, php-format
+msgid ""
+"Don't worry, we are still here, just <a href=\"%s\">click here</a> to go "
+"back to civilization."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/comments.php:20
+msgid "No Comments Yet"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/comments.php:20
+msgid "1 Comment Already"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/comments.php:20
+msgid "% Comments Already"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/comments.php:23
+msgid "stay updated with"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/comments.php:23
+msgid "Subscribe to comments feed"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/footer.php:22
+msgid "Recent Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/footer.php:36
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:169
+msgid "Recent Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/footer.php:50
+msgid "Hot Topics"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/footer.php:64
+msgid "About Us"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/footer.php:85
+msgid "Copyright &copy;"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/footer.php:85
+msgid "Y"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/functions.php:26
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/functions.php:27
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/page.php:22
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/single.php:26
+msgid "...more &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:8
+msgid "Advertisement"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:17
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:22
+msgid "Search"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:23
+msgid "Stay Update"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:41
+msgid "Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:48
+msgid "Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:55
+msgid "Popular"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:71
+msgid "Popular Tags"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/sidebar.php:76
+msgid "Calendar"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:7
+msgid " Custom CSS Options"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:10
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:110
+msgid " settings saved."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:13
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:111
+msgid " settings reset."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:29
+msgid "Insert your custom css here"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:34
+msgid "Save Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:40
+msgid "Are you sure you want to delete all saved custom css for this theme?."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:41
+msgid "Reset Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:65
+msgid " Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/ms-css-functions.php:65
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:108
+msgid " Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:262
+msgid "Save Options"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:269
+msgid "Are you sure you want to delete all saved settings for this theme?."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:270
+msgid "Reset Options"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:311
+msgid ""
+"The image name contain invalid character, rename it and try upload it again"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:353
+msgid " Options"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-functions.php:353
+msgid "Theme Options"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:6
+msgid "Header Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:7
+msgid "Site Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:8
+msgid "Upload your logo here."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:15
+msgid "Custom Title"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:16
+msgid ""
+"If not using logo, enter custom title here. <em>default site name will be "
+"use if empty</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:22
+msgid "Custom Description"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:23
+msgid ""
+"If using custom title, enter custom description here. <em>no default text is "
+"use if empty</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:29
+msgid "Favourite Icon"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:30
+msgid ""
+"Upload your fav icon here. <em>prefered 16x16 or 32x32 image dimension</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:39
+msgid "Typography Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:40
+msgid "Body Font"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:41
+msgid "Choose a font for the body text."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:48
+msgid "Headline and Title Font"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:49
+msgid "Choose a font for the headline text."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:56
+msgid "Navigation Font"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:57
+msgid "Choose a font for the navigation text."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:66
+msgid "Designs Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:67
+msgid "Navigation Main Color"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:68
+msgid "Choose a main color for navigation."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:74
+msgid "Navigation Secondary Color"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:75
+msgid "Choose a secondary color for navigation."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:81
+msgid "Links Color"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:82
+msgid "Choose a color for global links."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:89
+msgid "Sidebar Color"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:90
+msgid "Choose a color for sidebar header."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:96
+msgid "Footer Color"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:97
+msgid "Choose a color for footer background."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:106
+msgid "Featured Slider Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:107
+msgid "Enable Featured Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:108
+msgid "Choose if you want to enable or disable featured slider."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:116
+msgid "Categories ID"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:117
+msgid ""
+"Add a list of category ids if you want to use category as featured. "
+"<em>*leave blank to use bottom post ids featured</em><br /><small>example: "
+"3,4,68</small>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:123
+msgid "Limit to how many posts"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:124
+msgid "How many posts in categories you listed you want to show?"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:132
+msgid "Posts ID"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:133
+msgid ""
+"Add a list of post ids if you want to use posts as featured. <em>*leave "
+"blank to use above category ids featured</em><br /><small>example: "
+"136,928,925,80,77,55,49</small>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:142
+msgid "Posts Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:143
+msgid "Enable Single Featured"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:144
+msgid "Enable or disable full scale featured image in single posts."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:154
+msgid "Featured Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:155
+msgid "Enable Featured Category Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:156
+msgid ""
+"Choose if you want to enable or disable featured category sidebar. "
+"<em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:164
+msgid "Sidebar Featured Category 1"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:165
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:181
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:197
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:213
+msgid "Choose which category to featured."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:172
+msgid "Featured Category 1 Count"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:173
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:188
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:204
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:221
+msgid "How many posts you want to list in this category?"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:180
+msgid "Sidebar Featured Category 2"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:187
+msgid "Featured Category 2 Count"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:196
+msgid "Sidebar Featured Category 3"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:203
+msgid "Featured Category 3 Count"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:212
+msgid "Sidebar Featured Category 4"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:220
+msgid "Featured Category 4 Count"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:231
+msgid "Advertisment Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:232
+msgid "468x60 or 728x90 Header Banner or Advertisment Embed Code"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:233
+msgid ""
+"Add Embed Code or Image Banner Here <em>*HTML Allowed</em>. Leave blank if "
+"not use."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:239
+msgid "Banner or Advertisment Embed Code in Post"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:240
+msgid ""
+"Insert ads code in the blog post. It will appeared after first or second "
+"posts. Leave blank if not use."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:245
+msgid "Banner or Advertisment Embed Code in Single Post"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:246
+msgid ""
+"Insert ads code for the single post page. It will appeared before and after "
+"<em>post_content()</em>. Leave blank if not use."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:251
+msgid "Banner or Advertisment Embed Code in Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:252
+msgid "Insert ads code for the right sidebar. Leave blank if not use."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:257
+msgid "Header Code Insert"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:258
+msgid ""
+"Insert any code here. It will appeared after wp_head(). Leave blank if not "
+"use"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:263
+msgid "Footer Code Insert"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:264
+msgid ""
+"Insert any code here. It will appeared after wp_footer(). <em>Leave blank if "
+"not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:272
+msgid "Sidebar Banner Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:273
+msgid "Banner Ads 1"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:274
+msgid "Insert banner 1 HTML code. <em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:279
+msgid "Banner Ads 2"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:280
+msgid "Insert banner 2 HTML code. <em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:285
+msgid "Banner Ads 3"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:286
+msgid "Insert banner 3 HTML code. <em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:291
+msgid "Banner Ads 4"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:292
+msgid "Insert banner 4 HTML code. <em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:298
+msgid "Banner Ads 5"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:299
+msgid "Insert banner 5 HTML code. <em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:304
+msgid "Banner Ads 6"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:305
+msgid "Insert banner 6 HTML code. <em>*leave blank if not use</em>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:314
+msgid "Facebook Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:315
+msgid "Enable Facebook Open Graph"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:316
+msgid "Enable or disable facebook opengraph"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:323
+msgid "Facebook User ID"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:324
+msgid "Insert your Facebook User ID *optional"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:331
+msgid "Facebook Apps ID"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:332
+msgid "Insert your Facebook Apps ID *optional"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:340
+msgid "Social Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:341
+msgid "Twitter, Facebook Like and Share Links in Posts"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:342
+msgid "Enable social sharing in posts"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:349
+msgid "RSS Feed url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:350
+msgid "Insert your RSS Feed url like feed url for feedburner"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:356
+msgid "Facebook page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:357
+msgid "Insert your facebook page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:363
+msgid "Twitter page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:364
+msgid "Insert your twitter page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:370
+msgid "Linkedin page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:371
+msgid "Insert your linkedin page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:377
+msgid "Youtube page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:378
+msgid "Insert your youtube page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:384
+msgid "Google Plus page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/option-settings.php:385
+msgid "Insert your google plus page url"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:8
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:20
+msgid "Search for:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:9
+msgid "Type and Press Enter"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:21
+msgid "e.g Search Keyword"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:99
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:134
+msgid "&laquo; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:135
+msgid "Next &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:367
+msgid "Where to?"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:422
+msgid "on"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:682
+msgid "F jS, Y"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:682
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:687
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:781
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:12
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:830
+msgid "One comment"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:831
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:832
+msgid "No Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:835
+msgid "One pingback/trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:836
+msgid "% pingbacks/trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:837
+msgid "No pinbacks/trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:840
+msgid "One trackback"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:841
+msgid "% trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:842
+msgid "No trackbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:845
+msgid "One pingback"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:846
+msgid "% pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:847
+msgid "No pingbacks"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:889
+msgid "ago"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/theme-functions.php:899
+msgid "ID"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:8
+msgid "Tabbed Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:10
+msgid "Sidebar Tabbed widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:31
+msgid "Right Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:33
+msgid "Right sidebar widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:41
+msgid "First Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:43
+msgid "The first footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:51
+msgid "Second Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:53
+msgid "The second footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:61
+msgid "Third Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:63
+msgid "The third footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:71
+msgid "Fourth Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:73
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:93
+msgid "Display your most commented posts."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:99
+msgid "Most Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:134
+msgid "Name for most comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:138
+msgid "Total to show: "
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:143
+msgid "Show comments count:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:145
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:233
+msgid "yes"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:146
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:234
+msgid "no"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:163
+msgid "Display your recent comments with user avatar."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:203
+msgid "Says:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:227
+msgid "Name for recent comment(optional):"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:231
+msgid "Enable avatar?:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/functions/widget-functions.php:239
+msgid "Total to show:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/advertisment.php:13
+msgid "Sponsors"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/author-bio.php:17
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/author-bio.php:20
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/author-bio.php:30
+#, php-format
+msgid "View %s Twitter Profile"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/author-bio.php:34
+#, php-format
+msgid "View %s Facebook Profile"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/author-bio.php:38
+#, php-format
+msgid "View %s Google+ Profile"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/author-bio.php:42
+#, php-format
+msgid "View %s Linkedin Profile"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:10
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:18
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:25
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:44
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:63
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:79
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:89
+msgid "You are here&nbsp;:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:11
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:19
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:26
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:45
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:64
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:80
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:90
+msgid "Home"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:27
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:27
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:68
+#, php-format
+msgid "Daily Archives &raquo; <span>%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:70
+#, php-format
+msgid "Monthly Archives &raquo; <span>%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:72
+#, php-format
+msgid "Yearly Archives &raquo; <span>%s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:81
+msgid "Search Result"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/breadcrumbs.php:91
+msgid "404 Error Page"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:3
+msgid "Latest News From The"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:3
+msgid "Blog"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:3
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:7
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:11
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:17
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:31
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:38
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:7
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:26
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:28
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:30
+msgid "Archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:11
+msgid "Tag archives for"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:17
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:38
+msgid "Search result for &quot;"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/headline.php:38
+msgid "&quot;"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/paginate.php:4
+msgid "&laquo;Next Post&nbsp;%link"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/paginate.php:5
+msgid "%link&nbsp;Previous Post&raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/paginate.php:15
+msgid "Older Entries &raquo;"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/paginate.php:16
+msgid "&laquo; Newer Entries"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta-bottom.php:4
+msgid "Tagged in "
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta-bottom.php:7
+msgid "Filed in"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta-home.php:3
+msgid "No Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta-home.php:3
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta.php:5
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta-home.php:3
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta.php:5
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta.php:2
+msgid "By"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/post-meta.php:5
+msgid "Add Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/related.php:18
+msgid "You might also like to read:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/related.php:50
+msgid "Other People Also Reading:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/result.php:2
+msgid ""
+"Sorry, we can't find the category you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/result.php:4
+msgid ""
+"Sorry, we can't find the archive you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/result.php:6
+msgid ""
+"Sorry, we can't find the search keyword you're looking for. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/result.php:8
+msgid ""
+"Sorry, we can't find the author you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/result.php:10
+msgid ""
+"Sorry, we can't find the post you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/result.php:12
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/result.php:14
+msgid ""
+"Sorry, we can't find the content you're looking for at this URL. Please try "
+"selecting a menu item from above or to the side of this message to get where "
+"you'd like to go."
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/social-box.php:3
+msgid "Subscribe to rss feed"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/social-box.php:5
+msgid "Like us on Facebook"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/social-box.php:8
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/social-box.php:12
+msgid "Check out our Linkedin profile"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/social-box.php:16
+msgid "Check out our Youtube profile"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/lib/templates/social-box.php:20
+msgid "Check out our Google Plus profile"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/page-templates/template-blogroll.php:30
+msgid "Useful Resources:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/page-templates/template-full-width.php:27
+msgid "...Continue reading"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/page-templates/template-sitemap.php:32
+msgid "Archives by Month:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/page-templates/template-sitemap.php:34
+msgid "Archives by Category:"
+msgstr ""
+
+#: C:\xampp\htdocs\magpress\developer\wp-content\themes\combomag/page-templates/template-sitemap.php:43
+msgid "Browse Last 50 Posts:"
+msgstr ""

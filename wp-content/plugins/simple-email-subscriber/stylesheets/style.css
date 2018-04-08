@@ -1,0 +1,17 @@
+/* subscription first level */
+ul.subscription_categories{
+  list-style: none;
+}
+
+/* subscription second level */
+ul.subscription_categories  li{
+  background: none !important;
+  box-shadow: none !important;
+  text-align: left;
+  margin: 0;
+  color: black;
+}
+
+ul.subscription_categories  li .category{
+  margin-left: 10px;
+}

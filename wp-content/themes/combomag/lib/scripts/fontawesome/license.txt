@@ -1,0 +1,2 @@
+The Font Awesome font is licensed under the SIL Open Font License ¨C http://scripts.sil.org/OFL.
+Font Awesome CSS, LESS, and SASS files are licensed under the MIT License ¨C http://opensource.org/licenses/mit-license.html.
